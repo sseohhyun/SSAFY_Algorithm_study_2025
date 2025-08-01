@@ -15,6 +15,3 @@ for case in range(t):
         total = total + (count * cost_max)
         
     print(total)
-
-
-
